@@ -10,5 +10,5 @@
 * We share utilities and tools that we used to develop.
 
 # Contact Us.
-* [Mingcraft Discord](https://discord.gg/49HEWTA)
-* [Astea Discord](https://discord.gg/QG5jMShKqr )
+* [Mingcraft discord](https://discord.gg/49HEWTA)
+* [Astea discord](https://discord.gg/QG5jMShKqr )
