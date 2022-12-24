@@ -5,6 +5,7 @@
 * [Risbean](https://github.com/GoodGuyRisbean) - designer, streamer ([twitch](https://www.twitch.tv/albida1998), [youtube](https://www.youtube.com/channel/UCyPEVTeGi26ri4AvjXUNCEA))
 
 # What does "Ming Games" do?
+* We develop our own games.
 * We share our toy projects.
 * We share materials that we learn to carry out new projects.
 * We share utilities and tools that we used to develop.
