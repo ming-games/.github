@@ -11,11 +11,11 @@
 * We share materials that we learn to carry out new projects.
 * We share utilities and tools that we used to develop.
 
-# Other projects.
+# Other projects
 * [Mingcraft](https://github.com/mingcraft)
 * [Astea](https://github.com/project-astea)
 
-# Contact Us.
+# Contact Us
 * [Mingcraft discord](https://discord.gg/49HEWTA)
 * [Astea discord](https://discord.gg/QG5jMShKqr )
 
